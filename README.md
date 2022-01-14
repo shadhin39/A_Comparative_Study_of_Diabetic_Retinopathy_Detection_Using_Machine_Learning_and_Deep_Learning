@@ -1,6 +1,6 @@
 
 # Course 
-*CSE 4100: * Project & Thesis-I and *CSE 4250: *Project & Thesis-II
+*CSE 4100:* Project & Thesis-I and *CSE 4250:* Project & Thesis-II
 # A Comparative Study of Diabetic Retinopathy Detection Using Machine Learning and Deep Learning
 Diabetic Retinopathy Detection using Machine Learning and Deep Learning Algorithms
 # *Undergraduate Thesis*
