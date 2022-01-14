@@ -1,0 +1,3 @@
+# A_Comparative_Study_of_Diabetic_Retinopathy_Detection_Using_Machine_Learning_and_Deep_Learning
+Diabetic Retinopathy Detection using Machine Learning and Deep Learning Algorithms
+# *Undergraduate Thesis**
