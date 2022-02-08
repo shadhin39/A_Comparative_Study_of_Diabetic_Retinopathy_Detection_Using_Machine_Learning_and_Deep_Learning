@@ -11,3 +11,7 @@ Imagine being able to detect blindness before it happened. Millions of people su
 
 ***Dataset Link:*** https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
+
+***Paper*** 
+If you use any of the portion of this repository. Please cite the following paper: https://doi.org/10.1109/ICEEICT53905.2021.9667793
+
