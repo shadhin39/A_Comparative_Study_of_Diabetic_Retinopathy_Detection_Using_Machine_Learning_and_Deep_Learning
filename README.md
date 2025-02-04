@@ -13,4 +13,14 @@ Imagine being able to detect blindness before it happened. Millions of people su
 
 # *Paper*
 If you use any of the portion of this repository. Please cite the following paper: https://doi.org/10.1109/ICEEICT53905.2021.9667793
+@INPROCEEDINGS{9667793,
+  author={Sanjana, Silvia and Shadin, Nazmus Shakib and Farzana, Mayisha},
+  booktitle={2021 5th International Conference on Electrical Engineering and Information Communication Technology (ICEEICT)}, 
+  title={Automated Diabetic Retinopathy Detection Using Transfer Learning Models}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Deep learning;Image analysis;Retinopathy;Transfer learning;Retina;Communications technology;Diabetes;Diabetic Retinopathy;Xception;InceptionResNetV2;MobileNetV2;DenseNet121;NASNetMobile},
+  doi={10.1109/ICEEICT53905.2021.9667793}}
 
